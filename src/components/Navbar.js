@@ -1,5 +1,5 @@
 import React from 'react'
-// import logo from "../images/logo.svg"
+import logo from "../images/logo.png"
 import { pageLinks, socialLinks } from '../data'
 
 
@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-center">
         <div className="nav-header">
-          {/* <img src={logo} className="nav-logo" alt="backroads" /> */}
+          <img src={logo} className="nav-logo" alt="backroads" />
           <button type="button" className="nav-toggle" id="nav-toggle">
             <i className="fas fa-bars"></i>
           </button>
