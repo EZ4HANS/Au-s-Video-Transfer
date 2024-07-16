@@ -179,7 +179,7 @@ Hero
 
 .hero {
   min-height: 100vh;
-  background: var(--clr-primary-5);
+  background: #e5d612;
   display: flex;
   justify-content: center;
   align-items: center;
