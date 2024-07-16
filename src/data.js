@@ -1,4 +1,3 @@
-import slide1 from "./images/1-cover.png"
 import slide2 from "./images/2-privacy.png"
 import slide3 from "./images/3-history.png"
 import slide7 from "./images/8-testimonial.png"
